@@ -4,17 +4,17 @@
 # ---------------------------------------------------------------
 
 # Site
-title: pyq
-subtitle:
-description:
-author: pyq
+title: 培养器
+subtitle: 应用介绍
+description: 这是我的培养器App介绍
+author: 2323087190
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: 'pyq.github.io'
+url: '2323087190.github.io'
 baseurl:
 permalink: pretty
 
