@@ -1,0 +1,61 @@
+{
+status: {
+code: 0,
+message: "OK"
+},
+data: {
+id: "5ca57dcf69b1410001f255cb",
+name: "睡眠大陸",
+description: "有這樣一個不為人知的睡眠大陸，絕大多數的居民就像找了魔一樣，整天整夜地睡...",
+cardImg: "http://peace-lens.dailyinnovation.biz/course/card/ca248479436ab53af9278d48e7a6ed51.jpg",
+backgroundImg: "http://peace-lens.dailyinnovation.biz/course/background/c2df1c084babbc084894831e3f4cefc6.jpg",
+cTime: 1554349519,
+type: "package",
+isNew: false,
+iosSKU: null,
+sessionCount: 1,
+freeCount: 1,
+bannerImg: "http://peace-lens.dailyinnovation.biz/course/banner/0fbfddaa3eba06a7e0f83386d7ed2032.jpg",
+gradientStart: "#2A0F54",
+gradientEnd: "#4BC5CB",
+defaultAudioType: "female",
+autoPlay: false,
+sessions: [
+{
+id: "5ca57f5f69b1410001f255cd",
+title: "睡眠大陸",
+defaultDuration: 1276,
+sessionDuration: 1276,
+defaultAudio: "http://peace-lens.dailyinnovation.biz/session/audio/162f6715d64194e1a8d028c190b3e733.mp3",
+audio: {
+f5: {
+url: "",
+duration: ""
+},
+f10: {
+url: "",
+duration: ""
+},
+f15: {
+url: "http://peace-lens.dailyinnovation.biz/session/audio/162f6715d64194e1a8d028c190b3e733.mp3",
+duration: 1276
+}
+},
+audioV2: {
+f: {
+15: {
+url: "http://peace-lens.dailyinnovation.biz/session/audio/162f6715d64194e1a8d028c190b3e733.mp3",
+duration: 1276
+}
+}
+},
+isFree: true,
+guideList: [ ],
+guideBackgroundImg: "",
+guideBackgroundColor: "",
+defaultSoundId: null,
+showFeedback: false
+}
+]
+}
+}

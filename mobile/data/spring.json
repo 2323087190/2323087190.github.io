@@ -1,0 +1,64 @@
+{
+status: {
+code: 0,
+message: "OK"
+},
+data: {
+id: "5c52ef70bf1472000139ea26",
+name: "迎接春節",
+description: "這個冥想會幫助你放下期待並以一顆敞開的心去迎接春節，更有利於回到家後與家人相處。",
+cardImg: "http://peace-lens.dailyinnovation.biz/course/card/b9a1ca81a1e1101da862e580a6222810.jpg",
+backgroundImg: "http://peace-lens.dailyinnovation.biz/course/background/4d4f903aa81d6b546f7705aca45a30d3.jpg",
+cTime: 1548939120,
+type: "single",
+isNew: false,
+iosSKU: null,
+sessionCount: 1,
+freeCount: 1,
+bannerImg: "http://peace-lens.dailyinnovation.biz/course/banner/a3901ee65abbc827adf4b4b5052a33d8.jpg",
+gradientStart: "#600F1F",
+gradientEnd: "#E86680",
+defaultAudioType: "female",
+freeDescription: "迎接春節",
+freeBackground: "http://peace-lens.dailyinnovation.biz/course/freeBackground/a230589cb8d038224998cab5689244db.jpg",
+buttonImg: "http://peace-lens.dailyinnovation.biz/course/buttonImg/ddc5dfd6f2248c1972e7ee6b663558f1.png",
+txtCoverImg: "",
+sessions: [
+{
+id: "5c52f110bf1472000139ea29",
+title: "迎接春節",
+defaultDuration: 852,
+sessionDuration: 852,
+defaultAudio: "http://peace-lens.dailyinnovation.biz/session/audio/55d11fd2e02b6e1b3fe067b7ebbd55ce.mp3",
+audio: {
+f5: {
+url: "",
+duration: ""
+},
+f10: {
+url: "",
+duration: ""
+},
+f15: {
+url: "http://peace-lens.dailyinnovation.biz/session/audio/55d11fd2e02b6e1b3fe067b7ebbd55ce.mp3",
+duration: 852
+}
+},
+audioV2: {
+m: {
+15: {
+url: "http://peace-lens.dailyinnovation.biz/session/audio/55d11fd2e02b6e1b3fe067b7ebbd55ce.mp3",
+duration: 852
+}
+}
+},
+isFree: true,
+guideList: [ ],
+guideBackgroundImg: "",
+guideBackgroundColor: "",
+defaultSoundId: null,
+showFeedback: false
+}
+]
+}
+}

@@ -1,0 +1,64 @@
+{
+status: {
+code: 0,
+message: "OK"
+},
+data: {
+id: "5cc19cd9ca098a0001921da4",
+name: "緩解孕期焦慮",
+description: "這個冥想會幫助你緩解焦慮的情緒，安然的度過孕期。",
+cardImg: "http://peace-lens.dailyinnovation.biz/course/card/912b07cacb32b9494593255caac80521.jpg",
+backgroundImg: "http://peace-lens.dailyinnovation.biz/course/background/d60d0693417a2f4d1d9ccf3091ddaa51.jpg",
+cTime: 1556192473,
+type: "single",
+isNew: false,
+iosSKU: null,
+sessionCount: 0,
+freeCount: 1,
+bannerImg: "http://peace-lens.dailyinnovation.biz/course/banner/daeae162b8e434f43c3e9394f896e04b.jpg",
+gradientStart: "#550403",
+gradientEnd: "#EB6D44",
+defaultAudioType: "female",
+freeDescription: "這個冥想會幫助你緩解焦慮的情緒，安然的度過孕期。",
+freeBackground: "http://peace-lens.dailyinnovation.biz/course/freeBackground/dd11d09a27dba39ade29d2aa6d612529.jpg",
+buttonImg: "http://peace-lens.dailyinnovation.biz/course/buttonImg/4ed5478147fdf534f4f6fa3179df9dbe.png",
+txtCoverImg: null,
+sessions: [
+{
+id: "5cc19d77ca098a0001921da5",
+title: "緩解孕期焦慮",
+defaultDuration: 649,
+sessionDuration: 649,
+defaultAudio: "http://peace-lens.dailyinnovation.biz/session/audio/c9230c356d3613e64afd682dc1103944.mp3",
+audio: {
+f5: {
+url: "",
+duration: ""
+},
+f10: {
+url: "http://peace-lens.dailyinnovation.biz/session/audio/c9230c356d3613e64afd682dc1103944.mp3",
+duration: 649
+},
+f15: {
+url: "",
+duration: ""
+}
+},
+audioV2: {
+f: {
+10: {
+url: "http://peace-lens.dailyinnovation.biz/session/audio/c9230c356d3613e64afd682dc1103944.mp3",
+duration: 649
+}
+}
+},
+isFree: true,
+guideList: [ ],
+guideBackgroundImg: "",
+guideBackgroundColor: "",
+defaultSoundId: null,
+showFeedback: false
+}
+]
+}
+}

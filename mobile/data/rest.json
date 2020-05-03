@@ -1,0 +1,64 @@
+{
+status: {
+code: 0,
+message: "OK"
+},
+data: {
+id: "5bd70bf217ac930001af8c90",
+name: "午間小憩",
+description: "繁忙之餘，小憩一下，給自己的身體和心靈充充電。",
+cardImg: "http://peace-lens.dailyinnovation.biz/course/card/4254966363a0f526cfe5560ccd373fa8.jpg",
+backgroundImg: "http://peace-lens.dailyinnovation.biz/course/background/d06c1e415e5b59959eeef5874c0aec02.jpg",
+cTime: 1540819954,
+type: "single",
+isNew: false,
+iosSKU: null,
+sessionCount: 1,
+freeCount: 1,
+bannerImg: "http://peace-lens.dailyinnovation.biz/course/banner/78960b08bc3cdb6ee4ef8bf5438c13fd.jpg",
+gradientStart: "#2D545E",
+gradientEnd: "#94B67A",
+defaultAudioType: "female",
+freeDescription: "繁忙之餘，小憩一下",
+freeBackground: "http://peace-lens.dailyinnovation.biz/course/freeBackground/dbe4b01ceb46756502b6b5c4c49345ea.jpg",
+buttonImg: "http://peace-lens.dailyinnovation.biz/course/buttonImg/696b1e733c68fb91b660a1831db690bd.png",
+txtCoverImg: "",
+sessions: [
+{
+id: "5bd70c4017ac930001af8c91",
+title: "午間小憩",
+defaultDuration: 365,
+sessionDuration: 365,
+defaultAudio: "http://peace-lens.dailyinnovation.biz/session/audio/e5fa8aba0882f41737e44576a22e8a11.mp3",
+audio: {
+f5: {
+url: "http://peace-lens.dailyinnovation.biz/session/audio/e5fa8aba0882f41737e44576a22e8a11.mp3",
+duration: 365
+},
+f10: {
+url: "",
+duration: ""
+},
+f15: {
+url: "",
+duration: ""
+}
+},
+audioV2: {
+f: {
+5: {
+url: "http://peace-lens.dailyinnovation.biz/session/audio/e5fa8aba0882f41737e44576a22e8a11.mp3",
+duration: 365
+}
+}
+},
+isFree: true,
+guideList: [ ],
+guideBackgroundImg: "",
+guideBackgroundColor: "",
+defaultSoundId: null,
+showFeedback: false
+}
+]
+}
+}

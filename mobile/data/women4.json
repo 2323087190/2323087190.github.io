@@ -1,0 +1,64 @@
+{
+status: {
+code: 0,
+message: "OK"
+},
+data: {
+id: "5cc19b2cca098a0001921da3",
+name: "緩解孕吐反應",
+description: "今天這個冥想會幫助你放鬆一下，進而來幫你緩解孕吐反應。",
+cardImg: "http://peace-lens.dailyinnovation.biz/course/card/08bddbec7251e24836924e7c83bc1061.jpg",
+backgroundImg: "http://peace-lens.dailyinnovation.biz/course/background/b42ede1ab413535bf079bd0a7ae36ed0.jpg",
+cTime: 1556192044,
+type: "single",
+isNew: false,
+iosSKU: null,
+sessionCount: 0,
+freeCount: 1,
+bannerImg: "http://peace-lens.dailyinnovation.biz/course/banner/66707cf3ad70641b46f33fd25ad87337.jpg",
+gradientStart: "#500114",
+gradientEnd: "#E3796E",
+defaultAudioType: "female",
+freeDescription: "今天這個冥想會幫助你放鬆一下，進而來幫你緩解孕吐反應。",
+freeBackground: "http://peace-lens.dailyinnovation.biz/course/freeBackground/ebe94175efc654d607737dfcce491b1f.jpg",
+buttonImg: "http://peace-lens.dailyinnovation.biz/course/buttonImg/5e3c255d107b8031ced03b2da9312a98.png",
+txtCoverImg: null,
+sessions: [
+{
+id: "5cc19e0eca098a0001921da6",
+title: "緩解孕吐反應",
+defaultDuration: 450,
+sessionDuration: 450,
+defaultAudio: "http://peace-lens.dailyinnovation.biz/session/audio/f6c8a775d1f99810ab66ffeb819822e3.mp3",
+audio: {
+f5: {
+url: "",
+duration: ""
+},
+f10: {
+url: "http://peace-lens.dailyinnovation.biz/session/audio/f6c8a775d1f99810ab66ffeb819822e3.mp3",
+duration: 450
+},
+f15: {
+url: "",
+duration: ""
+}
+},
+audioV2: {
+f: {
+10: {
+url: "http://peace-lens.dailyinnovation.biz/session/audio/f6c8a775d1f99810ab66ffeb819822e3.mp3",
+duration: 450
+}
+}
+},
+isFree: true,
+guideList: [ ],
+guideBackgroundImg: "",
+guideBackgroundColor: "",
+defaultSoundId: null,
+showFeedback: false
+}
+]
+}
+}

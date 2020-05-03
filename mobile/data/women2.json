@@ -1,0 +1,64 @@
+{
+status: {
+code: 0,
+message: "OK"
+},
+data: {
+id: "5d1b1f5ab5a8d40001c9a761",
+name: "產前失眠",
+description: "緩解產前失眠，幫助提高睡眠質量。",
+cardImg: "http://peace-lens.dailyinnovation.biz/course/card/da0df85c3c260bcc2b82294ea1f34459.jpg",
+backgroundImg: "http://peace-lens.dailyinnovation.biz/course/background/52cff0e06e6a9f1497394599254dee15.jpg",
+cTime: 1562058586,
+type: "single",
+isNew: false,
+iosSKU: null,
+sessionCount: 0,
+freeCount: 1,
+bannerImg: "http://peace-lens.dailyinnovation.biz/course/banner/c31fa6f7d3f3b144a329ec5069d1fae2.jpg",
+gradientStart: "#671861",
+gradientEnd: "#E46B7B",
+defaultAudioType: "female",
+freeDescription: "緩解產前失眠",
+freeBackground: "http://peace-lens.dailyinnovation.biz/course/freeBackground/23d0b31e9d4c809c633f34eba28bed5f.jpg",
+buttonImg: "http://peace-lens.dailyinnovation.biz/course/buttonImg/83dab1889aa95fd7f89098ae73716c4f.png",
+txtCoverImg: null,
+sessions: [
+{
+id: "5d1b21d4b5a8d40001c9a762",
+title: "產前失眠",
+defaultDuration: 1134,
+sessionDuration: 1134,
+defaultAudio: "http://peace-lens.dailyinnovation.biz/session/audio/1f2ef1560d5a5f70a70a21bbd575dddb.mp3",
+audio: {
+f5: {
+url: "",
+duration: ""
+},
+f10: {
+url: "",
+duration: ""
+},
+f15: {
+url: "http://peace-lens.dailyinnovation.biz/session/audio/1f2ef1560d5a5f70a70a21bbd575dddb.mp3",
+duration: 1134
+}
+},
+audioV2: {
+f: {
+15: {
+url: "http://peace-lens.dailyinnovation.biz/session/audio/1f2ef1560d5a5f70a70a21bbd575dddb.mp3",
+duration: 1134
+}
+}
+},
+isFree: true,
+guideList: [ ],
+guideBackgroundImg: "",
+guideBackgroundColor: "",
+defaultSoundId: null,
+showFeedback: false
+}
+]
+}
+}

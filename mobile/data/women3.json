@@ -1,0 +1,64 @@
+{
+status: {
+code: 0,
+message: "OK"
+},
+data: {
+id: "5cf4f20ea5bebf0001db1a48",
+name: "減輕分娩恐懼",
+description: "通過冥想減輕對分娩的恐懼。",
+cardImg: "http://peace-lens.dailyinnovation.biz/course/card/d53352fbce87fd77a08d984eaec65887.jpg",
+backgroundImg: "http://peace-lens.dailyinnovation.biz/course/background/c1b932d75ecd95079f9ca1c552012ed1.jpg",
+cTime: 1559556622,
+type: "single",
+isNew: false,
+iosSKU: null,
+sessionCount: 0,
+freeCount: 1,
+bannerImg: "http://peace-lens.dailyinnovation.biz/course/banner/6d22937a314d087d12cb805eee7b3c84.jpg",
+gradientStart: "#134879",
+gradientEnd: "#7ED7F7",
+defaultAudioType: "female",
+freeDescription: "通過冥想減輕對分娩的恐懼。",
+freeBackground: "http://peace-lens.dailyinnovation.biz/course/freeBackground/dd11d09a27dba39ade29d2aa6d612529.jpg",
+buttonImg: "http://peace-lens.dailyinnovation.biz/course/buttonImg/ddc5dfd6f2248c1972e7ee6b663558f1.png",
+txtCoverImg: null,
+sessions: [
+{
+id: "5cf4f3afa5bebf0001db1a49",
+title: "減輕分娩恐懼",
+defaultDuration: 621,
+sessionDuration: 621,
+defaultAudio: "http://peace-lens.dailyinnovation.biz/session/audio/fe7740815629f6144c82728234101dcf.mp3",
+audio: {
+f5: {
+url: "",
+duration: ""
+},
+f10: {
+url: "http://peace-lens.dailyinnovation.biz/session/audio/fe7740815629f6144c82728234101dcf.mp3",
+duration: 621
+},
+f15: {
+url: "",
+duration: ""
+}
+},
+audioV2: {
+f: {
+10: {
+url: "http://peace-lens.dailyinnovation.biz/session/audio/fe7740815629f6144c82728234101dcf.mp3",
+duration: 621
+}
+}
+},
+isFree: true,
+guideList: [ ],
+guideBackgroundImg: "",
+guideBackgroundColor: "",
+defaultSoundId: null,
+showFeedback: false
+}
+]
+}
+}

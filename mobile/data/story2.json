@@ -1,0 +1,61 @@
+{
+status: {
+code: 0,
+message: "OK"
+},
+data: {
+id: "5c99ab8a153fed000172be8f",
+name: "夢精靈",
+description: "今晚，讓夢精靈和你一起進入夢鄉吧！",
+cardImg: "http://peace-lens.dailyinnovation.biz/course/card/3acd50d40a70be3bc041f2f60ed4219f.jpg",
+backgroundImg: "http://peace-lens.dailyinnovation.biz/course/background/c136ee4b7f8fa04392be5b72752e7767.jpg",
+cTime: 1553574794,
+type: "package",
+isNew: false,
+iosSKU: null,
+sessionCount: 1,
+freeCount: 1,
+bannerImg: "http://peace-lens.dailyinnovation.biz/course/banner/12b33653d6f06051ef27cf5fb30ca682.jpg",
+gradientStart: "#18215F",
+gradientEnd: "#5A85D3",
+defaultAudioType: "female",
+autoPlay: false,
+sessions: [
+{
+id: "5c99b58e153fed000172be90",
+title: "夢精靈",
+defaultDuration: 878,
+sessionDuration: 878,
+defaultAudio: "http://peace-lens.dailyinnovation.biz/session/audio/9bce3d716dd8f875a1e262a634bc6d3e.mp3",
+audio: {
+f5: {
+url: "",
+duration: ""
+},
+f10: {
+url: "",
+duration: ""
+},
+f15: {
+url: "http://peace-lens.dailyinnovation.biz/session/audio/9bce3d716dd8f875a1e262a634bc6d3e.mp3",
+duration: 878
+}
+},
+audioV2: {
+f: {
+15: {
+url: "http://peace-lens.dailyinnovation.biz/session/audio/9bce3d716dd8f875a1e262a634bc6d3e.mp3",
+duration: 878
+}
+}
+},
+isFree: true,
+guideList: [ ],
+guideBackgroundImg: "",
+guideBackgroundColor: "",
+defaultSoundId: null,
+showFeedback: false
+}
+]
+}
+}

@@ -1,0 +1,291 @@
+{
+status: {
+code: 0,
+message: "OK"
+},
+data: {
+id: "5cae9c28966ec60001574264",
+name: "7天幸福感訓練",
+description: "每個人對於幸福的定義可能都不相同。與別人如何定義幸福無關，更重要的事你如何看待你自己的幸福。在這系列練習中，我們會透過冥想來探索一下幸福對於你而言到底是什麼。",
+cardImg: "http://peace-lens.dailyinnovation.biz/course/card/8f5618bf6bbb1dd00d3cc2c3be2b7d4a.jpg",
+backgroundImg: "http://peace-lens.dailyinnovation.biz/course/background/204628559ba79e99886947b48cdafae0.jpg",
+cTime: 1554947112,
+type: "package",
+isNew: false,
+iosSKU: null,
+sessionCount: 7,
+freeCount: 1,
+bannerImg: "http://peace-lens.dailyinnovation.biz/course/banner/af6a2ac79615e8969a5c962896b7af00.jpg",
+gradientStart: "#010120",
+gradientEnd: "#5588D2",
+defaultAudioType: "female",
+autoPlay: false,
+sessions: [
+{
+id: "5caea823966ec60001574267",
+title: "幸福是什麼",
+defaultDuration: 528,
+sessionDuration: 528,
+defaultAudio: "http://peace-lens.dailyinnovation.biz/session/audio/0504e22d42c29f9d73bed9a1efc1c789.mp3",
+audio: {
+f5: {
+url: "",
+duration: ""
+},
+f10: {
+url: "http://peace-lens.dailyinnovation.biz/session/audio/0504e22d42c29f9d73bed9a1efc1c789.mp3",
+duration: 528
+},
+f15: {
+url: "http://peace-lens.dailyinnovation.biz/session/audio/8632c57bd75a9a67e37f8c1677130e8f.mp3",
+duration: 1027
+}
+},
+audioV2: {
+f: {
+10: {
+url: "http://peace-lens.dailyinnovation.biz/session/audio/0504e22d42c29f9d73bed9a1efc1c789.mp3",
+duration: 528
+},
+15: {
+url: "http://peace-lens.dailyinnovation.biz/session/audio/8632c57bd75a9a67e37f8c1677130e8f.mp3",
+duration: 1027
+}
+}
+},
+isFree: true,
+guideList: [ ],
+guideBackgroundImg: "",
+guideBackgroundColor: "",
+defaultSoundId: null,
+showFeedback: false
+},
+{
+id: "5caea82a966ec60001574268",
+title: "你可以擁有幸福",
+defaultDuration: 606,
+sessionDuration: 606,
+defaultAudio: "http://peace-lens.dailyinnovation.biz/session/audio/7122d4a9bcf9545f214ab43ca81e5e2e.mp3",
+audio: {
+f5: {
+url: "",
+duration: ""
+},
+f10: {
+url: "http://peace-lens.dailyinnovation.biz/session/audio/7122d4a9bcf9545f214ab43ca81e5e2e.mp3",
+duration: 606
+},
+f15: {
+url: "http://peace-lens.dailyinnovation.biz/session/audio/dab6dbf76310539c52f2502b456b229c.mp3",
+duration: 726
+}
+},
+audioV2: {
+f: {
+10: {
+url: "http://peace-lens.dailyinnovation.biz/session/audio/7122d4a9bcf9545f214ab43ca81e5e2e.mp3",
+duration: 606
+},
+15: {
+url: "http://peace-lens.dailyinnovation.biz/session/audio/dab6dbf76310539c52f2502b456b229c.mp3",
+duration: 726
+}
+}
+},
+isFree: false,
+guideList: [ ],
+guideBackgroundImg: "",
+guideBackgroundColor: "",
+defaultSoundId: null,
+showFeedback: false
+},
+{
+id: "5caea836966ec60001574269",
+title: "幸福就在此刻",
+defaultDuration: 578,
+sessionDuration: 578,
+defaultAudio: "http://peace-lens.dailyinnovation.biz/session/audio/8da9cbb6924c5cfad60e8d1fe49bb8ca.mp3",
+audio: {
+f5: {
+url: "",
+duration: ""
+},
+f10: {
+url: "http://peace-lens.dailyinnovation.biz/session/audio/8da9cbb6924c5cfad60e8d1fe49bb8ca.mp3",
+duration: 578
+},
+f15: {
+url: "http://peace-lens.dailyinnovation.biz/session/audio/d3b612a09f6f986e6c398f84711dbf80.mp3",
+duration: 1044
+}
+},
+audioV2: {
+f: {
+10: {
+url: "http://peace-lens.dailyinnovation.biz/session/audio/8da9cbb6924c5cfad60e8d1fe49bb8ca.mp3",
+duration: 578
+},
+15: {
+url: "http://peace-lens.dailyinnovation.biz/session/audio/d3b612a09f6f986e6c398f84711dbf80.mp3",
+duration: 1044
+}
+}
+},
+isFree: false,
+guideList: [ ],
+guideBackgroundImg: "",
+guideBackgroundColor: "",
+defaultSoundId: null,
+showFeedback: false
+},
+{
+id: "5caea83b966ec6000157426a",
+title: "感受多一點",
+defaultDuration: 491,
+sessionDuration: 491,
+defaultAudio: "http://peace-lens.dailyinnovation.biz/session/audio/5d5d89c4371ce7dfeab4285c70fc4786.mp3",
+audio: {
+f5: {
+url: "",
+duration: ""
+},
+f10: {
+url: "http://peace-lens.dailyinnovation.biz/session/audio/5d5d89c4371ce7dfeab4285c70fc4786.mp3",
+duration: 491
+},
+f15: {
+url: "http://peace-lens.dailyinnovation.biz/session/audio/2b50931352974ec9647e784e606b6ec5.mp3",
+duration: 920
+}
+},
+audioV2: {
+f: {
+10: {
+url: "http://peace-lens.dailyinnovation.biz/session/audio/5d5d89c4371ce7dfeab4285c70fc4786.mp3",
+duration: 491
+},
+15: {
+url: "http://peace-lens.dailyinnovation.biz/session/audio/2b50931352974ec9647e784e606b6ec5.mp3",
+duration: 920
+}
+}
+},
+isFree: false,
+guideList: [ ],
+guideBackgroundImg: "",
+guideBackgroundColor: "",
+defaultSoundId: null,
+showFeedback: false
+},
+{
+id: "5caea83f966ec6000157426b",
+title: "感恩心 Level UP",
+defaultDuration: 421,
+sessionDuration: 421,
+defaultAudio: "http://peace-lens.dailyinnovation.biz/session/audio/7ec8f7321fd7161e55b5e86775941b26.mp3",
+audio: {
+f5: {
+url: "http://peace-lens.dailyinnovation.biz/session/audio/7ec8f7321fd7161e55b5e86775941b26.mp3",
+duration: 421
+},
+f10: {
+url: "",
+duration: ""
+},
+f15: {
+url: "http://peace-lens.dailyinnovation.biz/session/audio/3d2d4602b2d1827dd7a09ed58041133b.mp3",
+duration: 706
+}
+},
+audioV2: {
+f: {
+5: {
+url: "http://peace-lens.dailyinnovation.biz/session/audio/7ec8f7321fd7161e55b5e86775941b26.mp3",
+duration: 421
+},
+15: {
+url: "http://peace-lens.dailyinnovation.biz/session/audio/3d2d4602b2d1827dd7a09ed58041133b.mp3",
+duration: 706
+}
+}
+},
+isFree: false,
+guideList: [ ],
+guideBackgroundImg: "",
+guideBackgroundColor: "",
+defaultSoundId: null,
+showFeedback: false
+},
+{
+id: "5caea844966ec6000157426c",
+title: "愛與被愛",
+defaultDuration: 879,
+sessionDuration: 879,
+defaultAudio: "http://peace-lens.dailyinnovation.biz/session/audio/eba1da39669144d95e867192bf9bd90b.mp3",
+audio: {
+f5: {
+url: "",
+duration: ""
+},
+f10: {
+url: "",
+duration: ""
+},
+f15: {
+url: "http://peace-lens.dailyinnovation.biz/session/audio/eba1da39669144d95e867192bf9bd90b.mp3",
+duration: 879
+}
+},
+audioV2: {
+f: {
+15: {
+url: "http://peace-lens.dailyinnovation.biz/session/audio/eba1da39669144d95e867192bf9bd90b.mp3",
+duration: 879
+}
+}
+},
+isFree: false,
+guideList: [ ],
+guideBackgroundImg: "",
+guideBackgroundColor: "",
+defaultSoundId: null,
+showFeedback: false
+},
+{
+id: "5caea84a966ec6000157426d",
+title: "看到美",
+defaultDuration: 1036,
+sessionDuration: 1036,
+defaultAudio: "http://peace-lens.dailyinnovation.biz/session/audio/d5031f4f26fc54e69bce713655223228.mp3",
+audio: {
+f5: {
+url: "",
+duration: ""
+},
+f10: {
+url: "",
+duration: ""
+},
+f15: {
+url: "http://peace-lens.dailyinnovation.biz/session/audio/d5031f4f26fc54e69bce713655223228.mp3",
+duration: 1036
+}
+},
+audioV2: {
+f: {
+15: {
+url: "http://peace-lens.dailyinnovation.biz/session/audio/d5031f4f26fc54e69bce713655223228.mp3",
+duration: 1036
+}
+}
+},
+isFree: false,
+guideList: [ ],
+guideBackgroundImg: "",
+guideBackgroundColor: "",
+defaultSoundId: null,
+showFeedback: false
+}
+]
+}
+}
